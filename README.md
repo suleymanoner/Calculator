@@ -6,3 +6,6 @@ In this Calculator project, we have one application page. There are buttons whic
 
 Also, this program supports just one calculation. For example, user can calculate '15+13'. However, user cannot calculate '15+13+23'. User should enter just one operation in time.
 
+This is page of application,
+
+![appScreen](https://user-images.githubusercontent.com/71967979/108605546-f5cb9700-73b4-11eb-8d78-5909e53fcc33.PNG)
